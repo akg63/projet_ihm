@@ -26,7 +26,7 @@ body {
     margin-left: 33.6em;
 }
 #add-remove {
-    margin-left: 29em;
+    margin-left: 25em;
 }
 table {
     margin: 0 auto;
